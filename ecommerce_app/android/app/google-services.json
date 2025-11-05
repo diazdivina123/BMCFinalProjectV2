@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185265667557",
+    "project_id": "bmcfinals301-2eade",
+    "storage_bucket": "bmcfinals301-2eade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185265667557:android:b86272151d6a4d160ec30c",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkk3-XSIubcr60u8PmwgxN-4MYHxjQf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
